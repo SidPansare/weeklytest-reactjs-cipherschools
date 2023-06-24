@@ -1,0 +1,164 @@
+*{
+    font-family:sans-serif;
+}
+.hicon{
+    color:white;
+    height:30px;
+    width: 30px;
+    /* border-radius: 1rem; */
+    position:absolute;
+    margin:17px;
+    margin-left:250px;
+
+}
+img.mainimg{
+    height:350px;
+    width: 300px;
+    border-radius: 1rem;
+    /* border:1px solid red; */
+    position:absolute;
+}
+img.star{
+    height:70px;
+    width:100px;
+}
+div.buystar{
+    display:flex;
+    justify-content: space-between;
+}
+p.BUY{
+    color: magenta;
+    margin-top:20px;
+    margin-right: 20px;
+    /* align-content: center; */
+}
+p.icon{
+    color:white;
+    height:20px;
+    width: 40px;
+    border-radius: 1rem;
+    border:1px solid red;
+    position:absolute;
+    margin:20px;
+    
+    background-color: red;
+}
+p.circle1{
+    color:white;
+    height:20px;
+    width: 20px;
+    border-radius: 1rem;
+    /* border:1px solid red; */
+    /* margin:20px; */
+    border: 1px solid black;
+    background-color: white;
+}
+.circle2{
+   
+    height:20px;
+    width: 20px;
+    border-radius: 1rem;
+    /* border:1px solid red; */
+    /* margin:20px; */
+    border: 1px solid black;
+    background-color: black;
+}
+.circle3{
+   
+    height:20px;
+    width: 20px;
+    border-radius: 1rem;
+    /* border:1px solid red; */
+    /* margin:20px; */
+    border: 1px solid black;
+    background-color: blue;
+}
+.size{
+    height:20px;
+    width: 20px;
+    border-radius: 1rem;
+    border: 1px solid black;
+    /* border:1px solid red; */
+    /* margin:20px; */
+}
+div.colorcircle{
+    display:flex;
+    justify-content: space-between;
+    height:30px;
+}
+.circles{
+    display:flex;
+    gap: 10px;
+    margin-left:10px;
+    /* border: solid black; */
+}
+.sizes{
+    display:flex;
+    gap: 10px;
+    margin-right:10px;
+    /* border: solid black; */
+}
+
+h4{
+    position:relative;
+    z-index: 2;
+    /* border: 2px solid black; */
+    width: 150px;
+    margin-top: 360px;
+}
+h4.dollar{
+    color: red;
+    text-align: end;
+    /* margin: 1.5rem; */
+}
+div.shoppingcard{
+    /* height: 500px; */
+    border:none;
+    display: flex;
+    justify-content: space-evenly;
+    padding:1rem;
+    position: relative;
+}
+div.a{
+    border: none;
+    height: 510px;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px;
+}
+div.a1{
+    display:flex;
+    justify-content: space-between;
+}
+div.discount{
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem;
+    margin-top: 2rem;
+    border: none;
+    border-radius: 1rem;
+    height:80px;
+    box-shadow: 5px 5px 10px;
+   
+}
+p{
+    
+    text-align: center;
+}
+div.discountleft{
+    width:200px;
+}
+p.hash{
+    color:red;
+    text-size-adjust: 20px;
+}
+p.grey{
+    color:grey;
+}
+div.discountright{
+    color:white;
+    background-color: blueviolet;
+    text-align: center;
+    border-radius: 1rem;
+    width: 100px;
+    font-weight: bold;
+}
