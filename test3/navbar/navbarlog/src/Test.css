@@ -1,0 +1,17 @@
+.a{
+    /* position: absolute; */
+    
+   
+    background-color: aqua;
+    display: flex;
+    width: 1000px;
+    height:80px;
+    justify-content: space-evenly;
+    border-radius: 1rem;
+}
+.main {
+    margin-top: 2rem;
+}
+h2:hover{
+    background-color: rgb(0, 146, 146);
+}
