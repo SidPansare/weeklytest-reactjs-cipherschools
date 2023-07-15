@@ -1,0 +1,1 @@
+Que. Build the following web page using react props and components. Get all names price as props from the parent component. Note: Use of props is mandatory for this question.    
